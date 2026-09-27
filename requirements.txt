@@ -4,3 +4,9 @@ matplotlib
 seaborn
 missingno
 scikit-learn
+xgboost
+catboost
+lightgbm
+optuna
+shap
+joblib

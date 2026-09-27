@@ -1,7 +1,5 @@
-venv/
-.venv/
-.venv2/
 git_project_2/
+catboost_info/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
